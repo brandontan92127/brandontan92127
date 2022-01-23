@@ -24,7 +24,7 @@ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on
 
 
 <a href="https://github.com/Frozen1110?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frozen1110&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="Frozen1110's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frozen1110&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=false" alt="Frozen1110's github stats--" />
 </a> 
 <a href="https://github.com/Frozen1110?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
