@@ -6,7 +6,17 @@ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on
 <br/>
 <br/>
 
-- ✈️ Open to Remote Job Opportunities 🍻
+✈️ Open to Remote Job Opportunities </br>
+⏲️ Full-time availability </br>
+☎️ Team collaboration </br>
+
+💎 Redux, MobX </br>
+💎 Expo </br>
+💎 GraphQL / Apollo </br>
+💎 Firebase </br>
+💎 Stripe payment </br>
+💎 Jest / Fastlane / Sentry </br>
+💎 Deploying Appstore & Playstore </br>
 
 <br/>
 
