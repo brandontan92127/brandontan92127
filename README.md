@@ -15,11 +15,13 @@ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on
 💎 Expo </br>
 💎 GraphQL / Apollo </br>
 💎 Firebase </br>
+💎 App Performance Optmization </br>
 💎 Native Code Implementation (Java/Kotlin, Swift/Objective-C) </br>
 💎 Automation Testing </br>
 💎 Deploying Appstore & Playstore </br>
 💎 Real-Time Feature </br>
 💎 Offline Capability </br>
+💎 Enctryption/Security </br>
 
 <br/>
 
