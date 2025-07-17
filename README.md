@@ -21,7 +21,7 @@ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on
 💎 Deploying Appstore & Playstore </br>
 💎 Real-Time Feature </br>
 💎 Offline Capability </br>
-💎 Enctryption/Security </br>
+💎 Encryption/Security </br>
 
 <br/>
 
